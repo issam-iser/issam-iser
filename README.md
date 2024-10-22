@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @issam-iser
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Next.js, Flutter
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on .. ( no i'm not )
 - 📫 How to reach me  : ) 
 
 <!---
